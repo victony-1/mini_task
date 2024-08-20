@@ -7,3 +7,7 @@ This repository is built steps by steps
 # Message
 to send a message to someone and to change 
 message[18] to uppercase'T' in the program
+
+# Additon 
+using c program to add the number together
+by using an operation 
