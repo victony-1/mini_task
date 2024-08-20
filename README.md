@@ -11,3 +11,11 @@ message[18] to uppercase'T' in the program
 # Additon 
 using c program to add the number together
 by using an operation 
+
+# Subtraction
+using c program to subtract the number together
+by using an operation 
+
+# Division
+using c program to divide the number together
+by using an operation 
